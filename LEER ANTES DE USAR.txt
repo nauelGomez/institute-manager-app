@@ -1,0 +1,5 @@
+user: admin
+contra: 1234
+
+en C:\Users\ESEQUIEL\Desktop\ultimaVersion3\src\visual\inicio
+esta el constructor comentado con instancias para hacer pruebas. 
