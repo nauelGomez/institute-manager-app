@@ -102,6 +102,7 @@ public class Curso implements Serializable{
     {
         this.alumnos.add(alumno);
     }
+    //gets y sets
 
     public void setDocente(Docente docente) {
         this.docente = docente;
